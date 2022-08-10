@@ -1,23 +1,28 @@
-<!--
- * @Description: 
- * @Version: 1.0
- * @Author: zengxianghui
- * @Date: 2022-08-10 08:38:17
- * @LastEditors: zengxianghui1
- * @LastEditTime: 2022-08-10 08:40:10
--->
-# hz-utils
+# @hz/utils
 
 js 通用方法库
 
 ### 安装
 
-`npm i hz-utils or hz-utils`
+`npm i @hz_org/utils or @hz_org/utils`
 
 ### API
 
 - 深拷贝
   ` deepClone(obj: Object): object;`
+
+### API
+
+- esModule
+  ```
+  import { deepClone } from "@hz_org/utils"
+```
+
+- cdn
+  ```
+  <script src="https://cdn.jsdelivr.net/npm/@hz_org/utils/index.js"></script>
+  console.log(window['hz-utils'].deepClone())
+```
 
 ### 本地开发
 

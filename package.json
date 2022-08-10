@@ -1,7 +1,7 @@
 {
-  "name": "hz-utils",
+  "name": "@hz_org/utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "utils",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/zengxianghui93/hz-utils.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "zengxianghui",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zengxianghui93/hz-utils/issues"
