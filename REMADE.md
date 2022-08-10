@@ -2,11 +2,11 @@
  * @Description: 
  * @Version: 1.0
  * @Author: zengxianghui
- * @Date: 2022-08-09 17:09:28
+ * @Date: 2022-08-10 08:38:17
  * @LastEditors: zengxianghui1
- * @LastEditTime: 2022-08-10 08:18:03
+ * @LastEditTime: 2022-08-10 08:40:10
 -->
-# utilibs
+# hz-utils
 
 js 通用方法库
 
