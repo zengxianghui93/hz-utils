@@ -4,7 +4,7 @@
  * @Author: zengxianghui
  * @Date: 2022-08-10 08:38:17
  * @LastEditors: zengxianghui1
- * @LastEditTime: 2022-08-15 11:11:29
+ * @LastEditTime: 2022-08-15 13:10:58
 -->
 # @hz_org/utils
 
@@ -68,13 +68,13 @@ src下新建文件编写
 ### 打包编译
 
 ```
-npm run build 生成index.ts文件和.d.ts声明文件
+npm run build
 ```
 
 ### npm 发布
 
 ```
-1.更新package.json的version（比npm现有的版本大）
+1.更新package.json的version
 2.copy根目录下的package.json和README.md至dist目录下
 3.cd dist
 4.npm publish
