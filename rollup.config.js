@@ -9,7 +9,7 @@ export default {
     // 打包出口
     file: "dist/index.js",
     format: "umd", // umd是兼容amd/cjs/iife的通用打包格式，适合浏览器
-    name: "hz-utils", // cdn方式引入时挂载在window上面用的就是这个名字
+    name: "@hz_org/utils", // cdn方式引入时挂载在window上面用的就是这个名字
     sourcemap: true,
   },
   plugins: [
